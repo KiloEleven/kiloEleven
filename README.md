@@ -16,3 +16,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: One 
 - ⚡ Fun fact: my pronouns not is a number
 
+| Languages    |
+|--------------|
+| JavaScript   | 
+| Python       | 
+| SQL          | 
+| MySQL        | 
+| Visual Basic | 
+| C#           |
+| PHP          |
+
+
+- 
+
